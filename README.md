@@ -1,100 +1,137 @@
-# Hi, I'm Şirvan Kesici
+<div align="center">
 
-**Electrical & Electronics Engineering background, building Edge AI, computer vision, embedded software and AI-assisted engineering systems.**
+# Şirvan Kesici
+### Edge AI · Computer Vision · Embedded Systems
 
-[![X](https://img.shields.io/badge/X-@srVnksc-1DA1F2?logo=x&logoColor=white)](https://x.com/srVnksc)
-[![YouTube](https://img.shields.io/badge/YouTube-SirvanKesici-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@SirvanKesici)
+[![X](https://img.shields.io/badge/X-@srVnksc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srVnksc)
+[![YouTube](https://img.shields.io/badge/YouTube-SirvanKesici-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SirvanKesici)
+[![GitHub](https://img.shields.io/badge/GitHub-Logshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Logshi)
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an engineer with a background in Electrical & Electronics Engineering and Economics. I work at the intersection of computer vision, embedded systems and applied AI — mostly building real-time inference pipelines, RTSP camera analytics and on-device AI for resource-constrained hardware.
+I'm an engineer with a background in **Electrical & Electronics Engineering** and **Economics**, based in Turkey. I build real-time inference pipelines, RTSP camera analytics and on-device AI for resource-constrained hardware.
 
-My main interest is **Edge AI**: getting models to run efficiently on devices like the Raspberry Pi 5 (with the Hailo AI HAT+), and building the full pipeline around them — video input, detection, logging, alerting and a usable interface. I also enjoy bridging my economics background with software through open-data projects.
+- ⚡ Currently working on **Edge AI inference** on Raspberry Pi 5 + Hailo AI HAT+
+- 📷 Building **computer vision pipelines** in C++ and Python (YOLO, ONNX, OpenCV)
+- 📡 Focused on **RTSP camera systems**, zone-based detection and dwell-time analysis
+- 📊 Bridging my **Economics** background with software through open-data projects
+- 🌍 Open to **Edge AI, computer vision and embedded software** opportunities
 
-I learn by building. The projects here range from foundational engineering exercises to applied computer vision and telemetry systems.
+---
 
-## Current Focus
+## 🚀 Featured Projects
 
-- **Edge AI inference** on Raspberry Pi 5 + Hailo AI HAT+ (CPU vs NPU)
-- **Computer vision pipelines** in C++ and Python (YOLO, ONNX, TFLite, OpenCV)
-- **RTSP camera systems** with zone-based detection and dwell-time analysis
-- **Mobile AI** with Flutter (on-device object/fire detection via TFLite)
-- **IoT & telemetry** for embedded safety systems
-- **Local/Turkish voice AI** assistants
+### 🎯 [zone-analysis](https://github.com/Logshi/zone-analysis)
+> Real-time RTSP/video dwell-time person detection — **C++ · YOLO ONNX · OpenCV**
 
-## Featured Projects
+- Detects people lingering in user-defined zones from RTSP streams or video files
+- Saves timestamped snapshot alerts and CSV event logs
+- Configurable zone geometry, threshold tuning and multi-zone support
 
-| Project | What it is | Stack |
-|---|---|---|
-| [zone-analysis](https://github.com/Logshi/zone-analysis) | RTSP/video dwell-time person detection in defined zones, with snapshot alerts and CSV logging | C++ · OpenCV · YOLO ONNX |
-| [hailoai](https://github.com/Logshi/hailoai) | Real-time RTSP AI inference benchmark on Raspberry Pi 5: CPU vs Hailo NPU | Python · Hailo · RTSP |
-| skyvision-control-case-study | Sanitized case study of a hot-air balloon telemetry & safety platform | ESP32 · Flutter · RTSP · AI |
-| [MacroTR](https://github.com/Logshi/MacroTR) | Open-source Turkish macroeconomic dashboard on TCMB EVDS data | FastAPI · React · PostgreSQL |
-| [Flutter YOLO11n Fire/Smoke](https://github.com/Logshi/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-) | On-device fire/smoke detection in a Flutter Android app | Flutter · TFLite · YOLO11n |
-| [GM_Voiceai](https://github.com/Logshi/GM_Voiceai) | Local Turkish voice AI assistant | Python · STT/TTS |
+---
 
-## Portfolio Map
+### ⚡ [hailoai](https://github.com/Logshi/hailoai)
+> Raspberry Pi 5 + Hailo AI HAT+ real-time inference benchmark — **Python · Hailo SDK · RTSP**
 
-### Edge AI & Computer Vision
-- [zone-analysis](https://github.com/Logshi/zone-analysis) — C++ RTSP dwell-time detection
-- [hailoai](https://github.com/Logshi/hailoai) — Raspberry Pi 5 + Hailo benchmarks
-- [Flutter YOLO11n Fire/Smoke Detection](https://github.com/Logshi/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-) — mobile edge AI
-- [yolo_flutter_object_detection](https://github.com/Logshi/yolo_flutter_object_detection) — Flutter + YOLO + TFLite demo
+- CPU vs NPU latency, FPS and thermal comparison on live RTSP streams
+- Tests quantized models on Hailo's dedicated neural processing unit
+- Practical edge deployment guide for Raspberry Pi 5
 
-### Embedded / IoT / Telemetry
-- skyvision-control-case-study — balloon safety & telemetry platform (sanitized case study)
-- [gps_tracker](https://github.com/Logshi/gps_tracker) — Flutter GPS/telemetry UI demo
-- [cpp-env-bootstrap](https://github.com/Logshi/cpp-env-bootstrap) — C++ dev environment tooling
+---
 
-### AI Assistants & LLM Systems
-- [GM_Voiceai](https://github.com/Logshi/GM_Voiceai) — local Turkish voice assistant
-- emotional-support-ai *(private — sanitized summary only)*
+### 🎈 [skyvision-control-case-study](https://github.com/Logshi/skyvision-control-case-study)
+> Sanitized case study of a balloon telemetry & safety platform — **ESP32 · Flutter · RTSP · AI**
 
-### Economics + Software
-- [MacroTR](https://github.com/Logshi/MacroTR) — Turkish macroeconomic dashboard (TCMB EVDS)
+- Real-time GPS/IMU telemetry with ESP32 microcontrollers
+- Flutter-based monitoring dashboard with live RTSP camera feeds
+- On-device AI integration for safety event detection
 
-### Engineering Fundamentals
-- [2_Signal_Processing_Basics](https://github.com/Logshi/2_Signal_Processing_Basics) — MATLAB signal processing
-- [Numerical_Analysis_and_Basic_Plots](https://github.com/Logshi/Numerical_Analysis_and_Basic_Plots) — MATLAB numerical analysis
-- [PLC-Basics-Summary](https://github.com/Logshi/PLC-Basics-Summary) — PLC fundamentals
-- [Data_Analysis](https://github.com/Logshi/Data_Analysis) — Python data analysis notes
+---
 
-### Learning Projects
-- python-calculator-signal-processing · hangman_game · To-Do-List-App · weather-forecast-api · Python
+### 📈 [MacroTR](https://github.com/Logshi/MacroTR)
+> Open-source Turkish macroeconomic dashboard — **FastAPI · React · PostgreSQL**
 
-### Forked / Research Watchlist
-> Repositories I follow and study — **not my own work**.
-- rf-detr · Second-Me · Orpheus-TTS
+- Pulls live data from TCMB EVDS (Turkish Central Bank) API
+- Interactive charts for inflation, interest rates and exchange rates
+- Economics background meets full-stack software engineering
 
-## Tech Stack
+---
 
-**Languages:** C++ · Python · Dart (Flutter) · JavaScript · MATLAB
-**Computer Vision / AI:** OpenCV · YOLO · ONNX · TensorFlow Lite
-**Edge / Embedded:** Raspberry Pi 5 · Hailo AI HAT+ · ESP32 · RTSP pipelines
-**Backend / Data:** FastAPI · PostgreSQL · REST APIs
-**Frontend / Mobile:** React · Flutter
-**Tooling:** Git · CMake · Linux · shell scripting
+### 🔥 [Flutter YOLO11n Fire/Smoke Detection](https://github.com/Logshi/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-)
+> On-device fire and smoke detection on Android — **Flutter · TFLite · YOLO11n**
 
-## Engineering + Economics Background
+- Runs fully on-device — no cloud dependency, no latency
+- `.pt → .tflite` model conversion pipeline included
+- Real-time camera inference on Android hardware
 
-My Electrical & Electronics Engineering background gives me the fundamentals — signal processing, embedded systems, PLC and numerical methods — that underpin my work in embedded AI and computer vision. My Economics background shapes how I think about data, systems and trade-offs, and directly motivated projects like [MacroTR](https://github.com/Logshi/MacroTR), which connects open economic data with software engineering.
+---
 
-I see this combination as a strength: I can reason about both the technical pipeline and the real-world system it serves.
+## 🛠️ Tech Stack
 
-## Learning Roadmap
+**Languages**
 
-- [ ] Deepen Hailo NPU optimization and quantization workflows
-- [ ] Add CI and automated testing to core C++/Python projects
-- [ ] Expand RTSP pipeline robustness (reconnection, multi-stream)
-- [ ] Document reproducible benchmarks for edge inference
-- [ ] Strengthen MLOps practices for model conversion and deployment
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-## Contact
+**Computer Vision / AI**
 
-- **X:** [@srVnksc](https://x.com/srVnksc)
-- **YouTube:** [@SirvanKesici](https://www.youtube.com/@SirvanKesici)
-- **GitHub:** [@Logshi](https://github.com/Logshi)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
 
-> Open to Edge AI, computer vision and embedded software opportunities.
+**Edge / Embedded**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Backend / Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Mobile / Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/Logshi?style=social)
+![Followers](https://img.shields.io/github/followers/Logshi?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Logshi)
+
+</div>
+
+---
+
+## 🌐 Languages
+
+🇹🇷 Turkish — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent
+
+---
+
+<div align="center">
+
+*Open to Edge AI, computer vision and embedded software opportunities*
+
+⭐ **If you find my projects useful, feel free to star them!**
+
+</div>
