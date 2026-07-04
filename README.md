@@ -4,7 +4,7 @@
 
 I build applied AI systems that connect models, software, data, and edge hardware. My portfolio is organized around three career tracks: AI Engineering, Economics & Financial Technology, and Embedded Software Engineering.
 
-[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium — add URL](#articles-and-writing) · [Portfolio — add URL](#portfolio-links) · [Email](mailto:sirvan@sophtrun.com.tr)
+[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium](https://medium.com/@sirvanksc) · [Portfolio — add URL](#portfolio-links) · [Email](mailto:sirvan@sophtrun.com.tr)
 
 ## Engineering Focus
 
@@ -58,7 +58,7 @@ C++, Rust, Raspberry Pi, ESP32, embedded Linux, device provisioning, sensor syst
 
 ## Articles and Writing
 
-- Medium: **add verified profile URL before publishing**
+- Medium: [medium.com/@sirvanksc](https://medium.com/@sirvanksc)
 - Planned series: edge AI benchmarks, trustworthy financial ML, and practical embedded systems
 
 ## Portfolio Links
