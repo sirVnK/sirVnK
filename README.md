@@ -4,7 +4,7 @@
 
 I build applied AI systems that connect models, software, data, and edge hardware. My portfolio is organized around three career tracks: AI Engineering, Economics & Financial Technology, and Embedded Software Engineering.
 
-[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium](https://medium.com/@sirvanksc) · [YouTube](https://www.youtube.com/@SirvanKesici) · [Portfolio — add URL](#portfolio-links) · [Email](mailto:sirvan@sophtrun.com.tr)
+[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium](https://medium.com/@sirvanksc) · [YouTube](https://www.youtube.com/@SirvanKesici) · [Email](mailto:sirvan@sophtrun.com.tr)
 
 ## Engineering Focus
 
