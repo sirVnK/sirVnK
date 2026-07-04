@@ -4,7 +4,7 @@
 
 I build applied AI systems that connect models, software, data, and edge hardware. My portfolio is organized around three career tracks: AI Engineering, Economics & Financial Technology, and Embedded Software Engineering.
 
-[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium](https://medium.com/@sirvanksc) · [Portfolio — add URL](#portfolio-links) · [Email](mailto:sirvan@sophtrun.com.tr)
+[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium](https://medium.com/@sirvanksc) · [YouTube](https://www.youtube.com/@SirvanKesici) · [Portfolio — add URL](#portfolio-links) · [Email](mailto:sirvan@sophtrun.com.tr)
 
 ## Engineering Focus
 
@@ -65,6 +65,8 @@ C++, Rust, Raspberry Pi, ESP32, embedded Linux, device provisioning, sensor syst
 
 - Personal portfolio: **add verified URL**
 - LinkedIn: [linkedin.com/in/srvnksc](https://www.linkedin.com/in/srvnksc/)
+- Medium: [medium.com/@sirvanksc](https://medium.com/@sirvanksc)
+- YouTube: [youtube.com/@SirvanKesici](https://www.youtube.com/@SirvanKesici)
 - GitHub: [github.com/sirVnK](https://github.com/sirVnK)
 
 ## Contact
@@ -73,6 +75,7 @@ For engineering roles, project discussions, and technical collaboration:
 
 - Email: [sirvan@sophtrun.com.tr](mailto:sirvan@sophtrun.com.tr)
 - LinkedIn: [Şirvan Kesici](https://www.linkedin.com/in/srvnksc/)
+- YouTube: [@SirvanKesici](https://www.youtube.com/@SirvanKesici)
 
 ---
 
