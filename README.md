@@ -1,134 +1,79 @@
 # Şirvan Kesici
 
-### Edge AI Engineer · Computer Vision · Embedded Systems · C++ / Python / Rust / Flutter
+### AI Systems Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srvnksc/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirvan@sophtrun.com.tr)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srVnksc)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SirvanKesici)
+I build applied AI systems that connect models, software, data, and edge hardware. My portfolio is organized around three career tracks: AI Engineering, Economics & Financial Technology, and Embedded Software Engineering.
 
----
+[LinkedIn](https://www.linkedin.com/in/srvnksc/) · [Medium — add URL](#articles-and-writing) · [Portfolio — add URL](#portfolio-links) · [Email](mailto:sirvan@sophtrun.com.tr)
 
-## 👨‍💻 About Me
+## Engineering Focus
 
-I'm an engineer with an **Electrical & Electronics Engineering and Economics** background, working at the intersection of **Edge AI, computer vision and embedded systems**. I like building the whole pipeline — from the sensor and the model to the interface that makes it useful.
+### AI Engineering
 
-- 🔭 Currently working at **SophtRun**, building computer vision and AI-integrated systems
-- 🤖 Focused on **Edge AI**: real-time inference on Raspberry Pi 5 + Hailo AI HAT+ (CPU vs NPU)
-- 📷 Building **RTSP camera analytics**, zone-based detection and dwell-time analysis in **C++ / OpenCV**
-- 📱 Bringing models on-device with **Flutter + TensorFlow Lite**
-- 📊 Bridging economics and software through open-data projects (TCMB EVDS)
-- 📫 Reach me at **sirvan@sophtrun.com.tr**
+Computer vision, edge AI, audio AI, LLM applications, Azure Machine Learning, YOLO, ONNX, TensorFlow Lite, RTSP analytics, and production-oriented evaluation.
 
----
+[View the AI Engineering portfolio](https://github.com/sirVnK/ai-engineering-portfolio)
 
-## 🚀 Featured Projects
+### Economics & Financial Technology
 
-### 🎯 [zone-analysis](https://github.com/sirVnK/zone-analysis)
-> RTSP/video dwell-time person detection with **C++ + YOLO ONNX + OpenCV**
+Economic data platforms, financial forecasting, risk analytics, fraud detection, portfolio research, and reliable backend systems for financial applications.
 
-- Detects people inside user-defined polygon zones
-- Flags dwell-time threshold breaches, saves alert snapshots
-- CSV event logging for downstream analysis
+[View the Economics & FinTech portfolio](https://github.com/sirVnK/economics-fintech-portfolio)
 
----
+### Embedded Software Engineering
 
-### 🧠 [hailoai](https://github.com/sirVnK/hailoai)
-> Real-time RTSP AI inference benchmark on **Raspberry Pi 5 + Hailo AI HAT+**
+C++, Rust, Raspberry Pi, ESP32, embedded Linux, device provisioning, sensor systems, industrial protocols, and edge-to-cloud integration.
 
-- CPU vs NPU comparison on edge hardware
-- Latency, FPS and thermal behavior observation
-- Edge inference pipeline tuning
+[View the Embedded Software portfolio](https://github.com/sirVnK/embedded-software-portfolio)
 
----
+## Selected Projects
 
-### 🎈 skyvision-control-case-study
-> Sanitized case study of a **balloon flight safety & telemetry platform**
+| Project | Area | What it demonstrates | Status |
+| --- | --- | --- | --- |
+| [zone-analysis](https://github.com/sirVnK/zone-analysis) | AI Engineering | C++, OpenCV, YOLO ONNX, RTSP ingestion, polygon zones, dwell-time events | In Progress |
+| [hailoai](https://github.com/sirVnK/hailoai) | AI Engineering / Embedded | Raspberry Pi 5 and Hailo NPU edge-inference benchmarking | In Progress |
+| [baby-cry-ai-detector](https://github.com/sirVnK/baby-cry-ai-detector) | AI Engineering | Audio classification, source-level evaluation, threshold selection, honest error analysis | In Progress · Private |
+| [MacroTR](https://github.com/sirVnK/MacroTR) | Economics & FinTech | TCMB EVDS ingestion, FastAPI, PostgreSQL, React, economic data visualization | In Progress |
+| [Finstack-Starter-Lite](https://github.com/sirVnK/Finstack-Starter-Lite) | Economics & FinTech | FastAPI, React, PostgreSQL, Redis, Docker, tests, and CI for financial applications | Completed v0.1 · Private |
+| [edge-wifi-provisioning-showcase](https://github.com/sirVnK/edge-wifi-provisioning-showcase) | Embedded Software | Headless device onboarding, AP-to-STA flow, rollback, and security-conscious documentation | Completed |
+| [skyvision-control-case-study](https://github.com/sirVnK/skyvision-control-case-study) | Embedded / AI Systems | Sanitized ESP32, telemetry, Flutter, RTSP, and edge-vision system case study | In Progress |
 
-- ESP32 sensor module (GPS, IMU, barometer, temperature)
-- Flutter Android tablet app + RTSP camera monitoring
-- On-device AI vision modules and a live telemetry dashboard
+## Current Direction
 
----
+- Make edge-AI projects reproducible with benchmarks, architecture diagrams, tests, and privacy-safe demos.
+- Build finance projects around time-aware validation, interpretable baselines, and clear limitations.
+- Add embedded evidence through protocol implementations, hardware-in-the-loop tests, and documented device constraints.
 
-### 📊 [MacroTR](https://github.com/sirVnK/MacroTR)
-> Open-source Turkish macroeconomic dashboard with **FastAPI + React + PostgreSQL**
+## Tech Stack
 
-- TCMB EVDS macroeconomic data ingestion
-- Full-stack: API, relational storage, dashboard frontend
-- Where my economics background meets software engineering
+**Languages:** Python, C++, Rust, SQL, Dart, TypeScript  
+**AI & Data:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, ONNX, TensorFlow Lite, Azure ML  
+**Backend & Platform:** FastAPI, PostgreSQL, Redis, Docker, GitHub Actions  
+**Edge & Embedded:** Raspberry Pi, Hailo AI HAT+, ESP32, embedded Linux, RTSP  
+**Frontend:** React, Flutter
 
----
+## GitHub Stats
 
-### 🔥 [Flutter YOLO11n Fire/Smoke Detection](https://github.com/sirVnK/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-)
-> On-device fire/smoke detection with **Flutter + TFLite + YOLO11n**
+![Şirvan Kesici's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirVnK&show_icons=true&hide_title=true&hide_rank=true&theme=transparent)
 
-- Real-time camera and single-image detection
-- Model conversion from PyTorch (`.pt`) to TFLite
-- Fully on-device inference (no cloud)
+## Articles and Writing
 
----
+- Medium: **add verified profile URL before publishing**
+- Planned series: edge AI benchmarks, trustworthy financial ML, and practical embedded systems
 
-### 🗣️ [GM VoiceAI](https://github.com/sirVnK/GM_Voiceai)
-> Local **Turkish voice AI assistant** built with Python
+## Portfolio Links
 
-- Speech-to-text → command handling → text-to-speech
-- Local / privacy-friendly approach
+- Personal portfolio: **add verified URL**
+- LinkedIn: [linkedin.com/in/srvnksc](https://www.linkedin.com/in/srvnksc/)
+- GitHub: [github.com/sirVnK](https://github.com/sirVnK)
 
----
+## Contact
 
-## 🛠️ Tech Stack
+For engineering roles, project discussions, and technical collaboration:
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Computer Vision & AI**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Edge & Embedded**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Hailo](https://img.shields.io/badge/Hailo%20AI%20HAT+-00B5A5?style=flat-square&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Backend & Mobile**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+- Email: [sirvan@sophtrun.com.tr](mailto:sirvan@sophtrun.com.tr)
+- LinkedIn: [Şirvan Kesici](https://www.linkedin.com/in/srvnksc/)
 
 ---
 
-## 📊 GitHub Stats
-
-![Stars](https://img.shields.io/github/stars/sirVnK?style=social)
-![Followers](https://img.shields.io/github/followers/sirVnK?style=social)
-
----
-
-*Open to Edge AI, computer vision and embedded software opportunities.*
-
-⭐ **If you find my projects useful, feel free to star them!**
-
-
-
-
-
-
+> Repository status labels describe the current portfolio state. Planned work is listed as planned and is not presented as completed experience.
