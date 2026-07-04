@@ -24,7 +24,7 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 
 ## 🚀 Featured Projects
 
-### 🎯 [zone-analysis](https://github.com/Logshi/zone-analysis)
+### 🎯 [zone-analysis](https://github.com/sirVnK/zone-analysis)
 > RTSP/video dwell-time person detection with **C++ + YOLO ONNX + OpenCV**
 
 - Detects people inside user-defined polygon zones
@@ -33,7 +33,7 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 
 ---
 
-### 🧠 [hailoai](https://github.com/Logshi/hailoai)
+### 🧠 [hailoai](https://github.com/sirVnK/hailoai)
 > Real-time RTSP AI inference benchmark on **Raspberry Pi 5 + Hailo AI HAT+**
 
 - CPU vs NPU comparison on edge hardware
@@ -51,7 +51,7 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 
 ---
 
-### 📊 [MacroTR](https://github.com/Logshi/MacroTR)
+### 📊 [MacroTR](https://github.com/sirVnK/MacroTR)
 > Open-source Turkish macroeconomic dashboard with **FastAPI + React + PostgreSQL**
 
 - TCMB EVDS macroeconomic data ingestion
@@ -60,7 +60,7 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 
 ---
 
-### 🔥 [Flutter YOLO11n Fire/Smoke Detection](https://github.com/Logshi/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-)
+### 🔥 [Flutter YOLO11n Fire/Smoke Detection](https://github.com/sirVnK/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-)
 > On-device fire/smoke detection with **Flutter + TFLite + YOLO11n**
 
 - Real-time camera and single-image detection
@@ -69,7 +69,7 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 
 ---
 
-### 🗣️ [GM VoiceAI](https://github.com/Logshi/GM_Voiceai)
+### 🗣️ [GM VoiceAI](https://github.com/sirVnK/GM_Voiceai)
 > Local **Turkish voice AI assistant** built with Python
 
 - Speech-to-text → command handling → text-to-speech
@@ -118,8 +118,8 @@ I'm an engineer with an **Electrical & Electronics Engineering and Economics** b
 
 ## 📊 GitHub Stats
 
-![Stars](https://img.shields.io/github/stars/Logshi?style=social)
-![Followers](https://img.shields.io/github/followers/Logshi?style=social)
+![Stars](https://img.shields.io/github/stars/sirVnK?style=social)
+![Followers](https://img.shields.io/github/followers/sirVnK?style=social)
 
 ---
 
